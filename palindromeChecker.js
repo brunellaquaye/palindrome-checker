@@ -1,6 +1,6 @@
 /*Implement a function that takes a string as input and returns true if it is a palindrome, and false otherwise*/
 
-//let initialString = "example "
+//let initialString = "example " 
 function palindrome(initialString){
     //this regular global expression will remove all non-alphanumeric characters including "-"
     let regex = /[\W_]/g;
